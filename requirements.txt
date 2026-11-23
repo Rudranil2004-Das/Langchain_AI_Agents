@@ -1,0 +1,16 @@
+langchain
+langchain_classic
+langchain-core
+langchain_chroma
+langchain_ollama
+langchain-openai
+langchain-text-splitters
+numpy
+openai
+pandas
+pillow
+pydantic
+python-dotenv
+SQLAlchemy
+streamlit
+pypdf
